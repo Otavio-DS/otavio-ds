@@ -1,4 +1,4 @@
-## Sou Otávio Dos Santos, desenvolvedor Backend com foco em me tornar fullstack!
+## I'm Otávio Dos Santos, Backend developer focused on becoming fullstack!
 
 <div style="display: inline_block"><br>
 
