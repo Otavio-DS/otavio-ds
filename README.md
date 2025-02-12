@@ -1,4 +1,4 @@
-## I'm Otávio Dos Santos, Full-Stack developer focused on becoming fullstack!
+## I'm Otávio Dos Santos, Full-Stack developer!
 
 <div style="display: inline_block"><br>
 
